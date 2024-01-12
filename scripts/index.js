@@ -42,7 +42,7 @@ form.addEventListener('submit', (e) => {
         videoContainer.style.display = 'flex'
         messageDiv.style.display = 'block';
         memeDiv.style.display = 'block';
-        messageDiv.innerHTML = `<p>${name.value} você foi rick rollado</p>`;
+        messageDiv.innerHTML = `<p>${name.value} you has been rick rollado</p>`;
     } else {
         videoContainer.style.display = 'none'
     }
